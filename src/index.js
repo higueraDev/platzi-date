@@ -2,7 +2,7 @@ function getTimeStamp() {
     return Date.now()
 }
 
-function getLongTime(locale = 'es-ES') {
+function getLongTime(locale = 'en-US') {
     const options = {
         weekday: 'long',
         year: 'numeric',

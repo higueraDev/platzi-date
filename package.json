@@ -1,15 +1,12 @@
 {
-  "name": "hd-date-formatter",
+  "name": "platzi-date",
   "version": "1.0.0",
   "description": "A utility to handle dates in timestamp and long time formats.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "date",
-    "nodejs"
-  ],
+  "keywords": ["date", "nodejs"],
   "author": "higueradev",
   "license": "MIT",
   "type": "commonjs"
