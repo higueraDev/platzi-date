@@ -1,5 +1,5 @@
 {
-  "name": "platzi-date",
+  "name": "hd-date-formatter",
   "version": "1.0.0",
   "description": "A utility to handle dates in timestamp and long time formats.",
   "main": "src/index.js",
