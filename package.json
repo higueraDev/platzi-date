@@ -4,7 +4,7 @@
   "description": "A utility to handle dates in timestamp and long time formats.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ok"
   },
   "keywords": ["date", "nodejs"],
   "author": "higueradev",
