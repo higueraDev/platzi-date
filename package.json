@@ -1,10 +1,10 @@
 {
   "name": "hd-date-formatter",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A utility to handle dates in timestamp and long time formats.",
   "main": "src/index.js",
   "scripts": {
-    "test": "ok"
+    "test": "node test/index.test.js"
   },
   "keywords": ["date", "nodejs"],
   "author": "higueradev",
